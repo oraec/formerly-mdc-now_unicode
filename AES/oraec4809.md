@@ -1,0 +1,21 @@
+# oraec4809
+
+## Author
+
+Ingelore Hafemann
+
+## Source
+
+[AES](https://github.com/simondschweitzer/aes)
+
+## Transformation
+
+[ORAEC](https://oraec.github.io/)
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+
+## Text
+
+𓂋𓏏𓊪𓏏𓂝𓏏𓅨𓂋𓏏𓎿𓅱𓏥[⯑]𓌸𓂋𓏏𓀁𓏥𓎛𓏌𓏏��[⯑]𓉥𓉐𓐛𓏏𓏭𓌙𓌙𓏛[⯑][⯑][⯑]𓇓𓈞𓏏𓅨𓂋𓏏𓈘𓏏𓆑[⯑][⯑]𓆓𓏏𓇾<br>

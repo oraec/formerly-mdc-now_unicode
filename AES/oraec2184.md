@@ -1,0 +1,28 @@
+# oraec2184
+
+## Author
+
+Stefan Grunert
+
+## Source
+
+[AES](https://github.com/simondschweitzer/aes)
+
+## Transformation
+
+[ORAEC](https://oraec.github.io/)
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+
+## Text
+
+𓉗𓇋𓊃𓊃𓇋𓁹𓎗𓅱𓏏𓊖<br>
+𓉗𓇋𓊃𓊃𓇋𓅡𓋴𓎰𓏏𓏏𓌸𓋹𓊖<br>
+[⯑]<br>
+[⯑]<br>
+𓉗𓇋𓊃𓊃𓇋𓅃𓋴𓌗𓊖<br>
+[⯑]<br>
+𓇋𓊃𓊃𓇋𓌸𓋹𓎟𓊖<br>
+[⯑]<br>
